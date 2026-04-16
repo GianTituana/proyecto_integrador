@@ -1,0 +1,2102 @@
+
+===== PAGINA 1 =====
+ 
+ 
+ 
+ 
+  |  1  | 
+ 
+ 
+ 
+
+===== PAGINA 2 =====
+ 
+ 
+ 
+ 
+  |  2  | 
+ 
+TABLA DE CONTENIDOS 
+ 
+ 
+INDICADOR 1 ………….………….………….………….………….………….………….………….………….………….………….…………………….………… 
+Procedimiento con posibles plazos de entrega de bienes limitados. 
+p. 4  
+INDICADOR 2 ……….………….………….………….………….………….………….………….………….………….………….……………………..…………. 
+Procedimiento  con bienes y servicios que posiblemente no guardan relación con el objeto de 
+contratación. 
+p. 6  
+INDICADOR 4 ……….………….………….………….………….………….………….………….………….………….………….…………………….………….. 
+Procedimiento con posibles preguntas acusatorias. 
+p. 9  
+INDICADOR 5 ………….………….………….………….………….………….………….………….………….………….………….…………………….……….. 
+Procedimiento con posibles reclamos. 
+p. 11  
+INDICADOR 6 ………….………….………….………….………….………….………….………….………….………….………….…………………….……….. 
+Procedimiento con posibles aclaraciones. 
+p. 13  
+INDICADOR 9 ………….………….………….………….………….………….………….………….………….………….………….…………………….……….. 
+Número de invitados en el procedimiento.  
+p. 15  
+INDICADOR 11 ………….………….………….………….………….………….………….………….………….………….………….……………………………. 
+Procedimiento sin concurrencia de invitados. 
+p. 17  
+INDICADOR 12 ………….………….………….………….………….………….………….………….………….………….………….…………………….……… 
+Procedimiento con bienes y servicios que posiblemente no se relacionan con el CPC elegido. 
+p. 19  
+INDICADOR 18 ………….………….………….………….………….………….………….………….………….………….………….……………………………. 
+Procedimiento con supuesto sobreprecio. 
+p. 22  
+INDICADOR 19 ………….………….………….………….………….………….………….………….………….………….………….…………………….……… 
+Número de proveedores que participan o adjudican en el proceso de GEN con diferentes 
+clasificaciones en su CPC.  
+p. 25  
+INDICADOR 22 ………….………….………….………….………….………….………….………….………….………….………….…………………………… 
+Procedimiento que posiblemente no cumple con la normativa de publicación de documentación 
+relevante. 
+p. 28  
+INDICADOR 25 ………….………….………….………….………….………….………….………….………….………….………….…………………………… 
+Procedimiento que posiblemente tiene un corto plazo de adjudicación. 
+p. 31  
+INDICADOR 27 ………….………….………….………….………….………….………….………….………….………….………….…………………………… 
+Procedimiento declarado desierto posiblemente sin motivación. 
+ 
+p. 33  
+
+===== PAGINA 3 =====
+ 
+ 
+ 
+ 
+  |  3  | 
+INDICADOR 28 ………….………….………….………….………….………….………….………….………….………….………….…………………………… 
+Procedimiento que posiblemente contiene contratos complementarios. 
+p. 35  
+INDICADOR 29 ………….………….………….………….………….………….………….………….………….………….………….…………………………… 
+Procedimiento que posiblemente contiene contratos modificatorios. 
+p. 37  
+INDICADOR COMPUESTO ………….………….………….………….………….………….………….………….………….………….……………….. 
+Indicador Compuesto GEN-Proceso  
+p. 39  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 4 =====
+ 
+ 
+ 
+ 
+  |  4  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 1 
+NOMBRE DEL INDICADOR 
+Procedimiento con posibles plazos de entrega de bienes limitados. 
+DEFINICIÓN 
+Mide los procedimientos GEN que no cumplen con los plazos de 
+ejecución acorde a la normativa. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ 
+ETAPA DEL PROCESO 
+Publicación. 
+FÓRMULA DE CÁLCULO 
+𝑃𝐸!,#  = 𝑃𝐸!,# –  𝑋F 𝑃𝐸 
+ 
+Donde: 
+PEt: Plazos de entrega de bienes en la unidad de observación i (proceso) en el periodo t. 
+PEi,t: Plazos de entrega de bienes en la unidad de observación i (proceso) en el periodo t.  
+XJ PE: Plazo de entrega de bienes promedio según su CPC a nivel 9. 
+DEFINICIÓN DE LAS VARIABLES RELACIONADAS  
+Plazos de entrega de bienes, obras y servicios: Son los plazos establecidos en relación a la naturaleza del 
+bien, obra y servicio 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Plazos de entrega de bienes, obras y servicios: Legible a máquina y ubicado en el módulo descripción del 
+proceso de contratación, 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico del Negocio, se debe extraer la 
+información de los plazos de entrega del procedimiento. A su vez se debe calcular el plazo promedio de 
+los bienes y servicios por su Clasificador Central de Productos (CPC) a nivel 9.  Consecuentemente, se 
+debe evaluar si el procedimiento mediante la siguiente condición: 
+ 
+𝑃𝐸 > 𝑋F𝑃𝐸 → 𝑃𝐸𝐶 
+Donde:  
+PE: Plazos de entrega de los bienes. 
+XJ PE: Promedio de los plazos de entrega de los bienes a su CPC nivel 9. 
+PEC: Plazos de entrega competitivos 
+  
+
+===== PAGINA 5 =====
+ 
+ 
+ 
+ 
+  |  5  | 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN DEL 
+INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Un resultado menor establece procedimientos con 
+plazos de entrega de bienes limitados  
+ 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Diario   
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+Codificación de Resoluciones 
+Artículo 271.1 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+ 
+D. Salazar, A. Angles (2018). El diseño institucional de 
+la corrupción: vacíos regulatorios en contrataciones 
+públicas con el Estado. Análisis del Programa Nacional 
+de Dotación de Materiales Educativos del Perú. Pag. 
+11-12. 
+ 
+N. Charron et.al (2016). Careers, Connections, and 
+Corruption Risks: Investigating the Impact of 
+Bureaucratic Meritocracy on Public Procurement 
+Processes. Pag 5. 
+ 
+J. Ferwerda et.al (2016). Corruption in Public 
+Procurement: Finding the Right Indicators.Pág8,17. 
+ 
+C.Kenny, M. Musatova (2010). ‘Red Flags of 
+Corruption’ in World Bank Projects An Analysis of 
+Infrastructure Contracts. Pag 10-11. 
+ 
+
+===== PAGINA 6 =====
+ 
+ 
+ 
+ 
+  |  6  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 2 
+NOMBRE DEL INDICADOR 
+Procedimiento con bienes y servicios que posiblemente no 
+guardan relación con el objeto de contratación. 
+DEFINICIÓN 
+Procedimiento GEN con varios productos y servicios requeridos 
+que no guardan relación con el objeto de contratación. 
+ 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Publicación  
+FÓRMULA DE CÁLCULO 
+𝑌! =  𝑋1 
+ 
+Donde: 
+Yi: Relación entre el objeto contractual con los bienes y servicios a contratar en la unidad de observación 
+i (proceso). 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si existe o no relación del objeto del proceso con 
+los bienes y servicios a contratar. 
+ 
+Cuando X1 es 0, significa que no existe relación entre objeto del procedimiento con los bienes y servicios 
+por contratar en el proceso. 
+Cuando X1 es 1, significa que existe relación entre objeto del proceso con los bienes y servicios por 
+contratar en el proceso. 
+ 
+DEFINICIÓN DE LAS VARIABLES RELACIONADAS  
+Clasificador Central de Productos. -Es la clasificación de productos por código. 
+Detalle de bienes y servicios. - Son los bienes y servicios que se encuentran en el clasificador central de 
+productos que se desglosan de un código. 
+Objeto del proceso. - Son los bienes, servicios que se van a adquirir por la entidad. 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Clasificador Central de Productos. - Legible a máquina en buscador de Productos con la Clasificación 
+Detalle de bienes y servicios. -Legible a máquina en módulo productos 
+ 
+Objeto del proceso. - Legible a máquina en el módulo descripción 
+ 
+
+===== PAGINA 7 =====
+ 
+ 
+ 
+ 
+  |  7  | 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer la 
+información del objeto del proceso y el detalle del CPC a nivel 5 de la descripción de los bienes y servicios 
+en el apartado de productos. 
+Consecuentemente, se evalúa si existe por lo menos una cadena de texto que sea elemento del objeto del 
+proceso tal que esta pertenezca al detalle del Clasificador central de Productos (CPC) a nivel 5 de los 
+bienes y servicios. 
+  
+∃ 𝑛 ∈ 𝐶𝑂𝑃: 𝑛 ∈ 𝐷𝐶𝑃𝐶   
+ 
+Donde:   
+COP: Conjunto de cadenas de texto del objeto del proceso.  
+n: Cadena de texto.  
+DCPC: Detalle de CPC a nivel 5. 
+ 
+Se debe usar expresiones regulares para la búsqueda de patrones de cadenas de caracteres. Así como 
+técnicas de minería de texto para eliminar pronombres y preposiciones tanto del detalle del CPC y el 
+objeto del proceso.  El nivel o grado de coincidencia de las cadenas de texto del objeto del proceso en el 
+detalle de CPC a nivel 5, es utilizado para determinar los procedimientos que tienen o no relación entre 
+su objeto contractual y sus bienes y servicios a contratar.  
+ 
+𝑁𝐶 ≥ 𝑋 → 𝑃𝑅𝑂𝐵𝑆 
+Donde: 
+NC: Nivel de coincidencia. 
+X: Parámetro discrecional. 
+PROBS: Procedimiento con relación entre el objeto del proceso con los bienes y servicios por contratar. 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1. 
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN DEL 
+INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa que no existe relación entre 
+objeto del procedimiento con los bienes y servicios 
+por contratar en el proceso. 
+Cuando X1 es 1, significa que existe relación entre 
+objeto del proceso con los bienes y servicios por 
+contratar en el proceso. 
+ 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+
+===== PAGINA 8 =====
+ 
+ 
+ 
+ 
+  |  8  | 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+ 
+Codificación de Resoluciones del SERCOP 
+Artículos 102-104 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+Instituto Mexicano para la Competitividad (2018). 
+Centro de Investigación en Política Pública Anexo 
+metodológico del índice de riesgo de corrupción de 
+México. Pág. 12-65. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 9 =====
+ 
+ 
+ 
+ 
+  |  9  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 4 
+NOMBRE DEL INDICADOR 
+Procedimiento con posibles preguntas acusatorias. 
+DEFINICIÓN 
+Mide el número de preguntas acusatorias. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Etapa de Preguntas, Respuestas y Aclaraciones. 
+FÓRMULA DE CÁLCULO 
+𝑇𝑃𝐴!,# = €
+$
+!%&
+𝑃𝐴! 
+ 
+Donde: 
+TPAi,t: Total de preguntas acusatorias en la unidad de observación i (proceso) en el periodo t. 
+PAi,: Preguntas tipo acusatorio que tiene la unidad de observación i (proceso). 
+ 
+DEFINICIÓN DE LAS VARIABLES 
+RELACIONADAS  
+Preguntas acusatorias. – Preguntas cuyo contenido imputa irregularidades en el procedimiento 
+señalando palabras como: direccionado, limitante, vulneración, trato justo, ocultamiento, corrupción., 
+violación, incompleto 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Preguntas acusatorias: Legible a máquina y ubicado en el módulo ver preguntas/o aclaraciones. 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer la 
+información respecto a preguntas de los procesos contractuales. A su vez, las preguntas deben ser 
+evaluadas para que exista por lo menos una cadena de texto acusatoria tal que la pregunta tipo 
+reclamo sea verdadera, como se describe en la siguiente condición: 
+ 
+∃ 𝑛 ∈ 𝐶𝑅: 𝑃𝐴  
+Donde:  
+CR: Conjunto de cadenas de texto tipo reclamo-acusatoria. 
+
+===== PAGINA 10 =====
+ 
+ 
+ 
+ 
+  |  10  | 
+N: Cadena de texto. 
+PA: Preguntas acusatoria. 
+ 
+El conjunto de cadenas de texto tipo reclamo-acusatoria contiene palabras como “direccionado”, 
+“limitante”, “vulneración”, “trato justo”, “ocultamiento”, “corrupción”, “violación”, “incompleto” y se 
+recomienda usar expresiones regulares para la búsqueda de patrones de cadenas de caracteres, así 
+como técnicas de minería de texto para eliminar pronombres y preposiciones. 
+ 
+El resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 0 y 1. 
+ 
+Donde: 
+0 significa que la pregunta no tiene cadenas de texto tipo reclamo-acusatoria. 
+1 significa que la pregunta tiene cadenas de texto tipo reclamo-acusatoria. 
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN 
+DEL INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Un mayor número de pregunta tipo reclamo-
+acusatoria indica procedimientos que limitan la 
+participación de los oferentes vulnerando los 
+principios 
+de 
+igualdad, 
+concurrencia 
+y 
+transparencia. 
+ 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+ 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública 
+Artículo 31 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+C. Pineda (2019). Transparencia en la contratación 
+pública local de los ayuntamientos del País Vasco 
+(España). Pág. 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 11 =====
+ 
+ 
+ 
+ 
+  |  11  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 5 
+NOMBRE DEL INDICADOR 
+Procedimiento con posibles reclamos. 
+DEFINICIÓN 
+Mide la cantidad de reclamos que tiene un procedimiento. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Etapa de Preguntas, Respuestas y Aclaraciones. Todas las etapas 
+hasta la adjudicación 
+FÓRMULA DE CÁLCULO 
+𝑇𝑅𝐸!,# = € 𝑅𝐸!
+$
+!%&
+ 
+Donde: 
+TREi,t: Total de reclamos en la unidad de observación i (proceso) en el periodo t. 
+REi,: Reclamos que tiene la unidad de observación i (proceso). 
+ 
+DEFINICIÓN DE LAS VARIABLES RELACIONADAS  
+Procedimientos con reclamos. – Procedimientos con reclamos formales a la entidad contratante por 
+inconsistencias en el procedimiento de contratación. 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Procedimientos con reclamos: Ubicado en el Módulo de archivos, en archivos de soporte para el proceso 
+de reclamo. Nombre del archivo “reclamo” 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer la 
+información de los reclamos y contarlos por proceso. Consecuentemente, los reclamos se deben evaluar 
+mediante una sentencia condicional:  
+  
+(𝑅𝐸 >  0) → 𝑃𝑅𝐸 
+  
+Donde:  
+RE:  Número de reclamos en un procedimiento de GEN.  
+PRE: Procedimiento con reclamos. 
+
+===== PAGINA 12 =====
+ 
+ 
+ 
+ 
+  |  12  | 
+  
+Se recomienda usar expresiones regulares para la búsqueda de patrones de cadenas de caracteres para 
+la búsqueda del archivo denominado “reclamos”. 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1.   
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN DEL 
+INDICADOR 
+Número 
+ 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Un número mayor de procedimientos con reclamos 
+representa un alto grado de corrupción de una entidad 
+cuyo comportamiento vulnera los principios de la 
+contratación pública. 
+ 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+Trimestral 
+ 
+ 
+RELACIÓN CON LA NORMATIVA 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública  
+Artículos 102 y 103 
+Reglamento General de la Ley Orgánica del Sistema 
+Nacional de Contratación Pública 
+Artículos 150-159 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+ 
+J. Ferwerda et.al (2016). Corruption in Public 
+Procurement: Finding the Right Indicators. Pag 8-17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 13 =====
+ 
+ 
+ 
+ 
+  |  13  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 6 
+NOMBRE DEL INDICADOR 
+Procedimiento con posibles aclaraciones. 
+DEFINICIÓN 
+Mide la cantidad de aclaraciones en un procedimiento. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Etapa de Preguntas, Respuestas y Aclaraciones. 
+FÓRMULA DE CÁLCULO 
+𝑇𝐴𝐶!,# = € 𝐴𝐶!
+$
+!%&
+ 
+Donde: 
+TACi,t: Total de modificaciones (aclaraciones) en la unidad de observación i (proceso) en el periodo t. 
+ACi,: Modificaciones (aclaraciones) que tiene la unidad de observación i (proceso). 
+ 
+DEFINICIÓN DE LAS VARIABLES RELACIONADAS  
+Procedimientos con modificación de documentos. -  Son procedimientos de giro específico de negocio que 
+contienen modificación de documentos en la etapa precontractual con el objeto de favorecer a un 
+proveedor específico. 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Procedimientos con modificación de documentos: Módulo de archivos, en el campo “Archivo para 
+respuesta o aclaración” con documentos denominados “Pliego”, “TDR”, “Término de referencia”, 
+“formularios de la oferta”. 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer la 
+información de las aclaraciones y contarlas por proceso. Consecuentemente, las aclaraciones se deben 
+evaluar mediante una sentencia condicional:  
+  
+(𝐴𝐶 >  0) → 𝑃𝑅𝐴𝐶 
+Donde:  
+AC:  Número de aclaraciones en un procedimiento de GEN.  
+
+===== PAGINA 14 =====
+ 
+ 
+ 
+ 
+  |  14  | 
+PRAC: Procedimiento con aclaraciones 
+  
+El documento con aclaraciones contiene palabras como “Pliego”, “TDR”, “Término de referencia”, 
+“formulario de ofertas” y se recomienda usar expresiones regulares para la búsqueda de patrones de 
+cadenas de caracteres. 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1.   
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN DEL 
+INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Un mayor número de aclaraciones indica más 
+procedimientos con evidencia de modificación de 
+documentos precontractuales, con la finalidad de 
+favorecer a un proveedor específico. 
+ 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+ 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública. 
+Artículo 31 
+Codificación de Resoluciones  
+Artículo 168 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+ 
+M. Jorquera (2019). Compras Públicas y Big Data: 
+Investigación en Chile sobre Índice de Riesgo de 
+Corrupción.Pág.24,25,26,28. 
+M. Fazekas et.al (2016). An Objective Corruption Risk 
+Index Using Public Procurement Data. Pag 22, 369–
+397. 
+ 
+ 
+ 
+ 
+
+===== PAGINA 15 =====
+ 
+ 
+ 
+ 
+  |  15  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 9 
+NOMBRE DEL INDICADOR 
+Número de invitados en el procedimiento.  
+DEFINICIÓN 
+Mide el número de participantes en procedimientos GEN. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Por adjudicar. 
+FÓRMULA DE CÁLCULO 
+𝑇𝑂𝐹!,# = €
+$
+!%&
+𝑂𝐹! 
+Donde: 
+TOFi,t: Total de oferentes en la unidad de observación i (proceso) en el periodo t. 
+OFi,: Oferentes que tiene la unidad de observación i (proceso). 
+ 
+DEFINICIÓN DE LAS VARIABLES 
+RELACIONADAS  
+Oferentes de un procedimiento. -Son las personas naturales o jurídicas que participan en un 
+procedimiento de contratación 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Oferentes de un procedimiento. – Ubicado en el Módulo resultados de la publicación. 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador.  
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer el 
+total de oferentes de un procedimiento.  
+ 
+ID. PROCESO 
+RUC/Razón social oferente oferente 
+ 
+ 
+GEN-CNTEP-132410-21 
+OF1 
+OF2 
+OF3 
+. 
+. 
+
+===== PAGINA 16 =====
+ 
+ 
+ 
+ 
+  |  16  | 
+. 
+∑ Total de oferentes 
+ 
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN 
+DEL INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Un número menor en el indicador demuestra la falta 
+de interés de los proveedores en participar, en un 
+procedimiento de contratación de GEN, siendo una 
+señal de acceso restringido para participar en el 
+procedimiento.   
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Diario 
+Mensual 
+ 
+ 
+RELACIÓN CON LA NORMATIVA 
+ 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública 
+Artículo 4 
+Codificación de Resoluciones 
+Artículo 165-168 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+ 
+Instituto Mexicano para la Competitividad (2018). 
+Centro de Investigación en Política Pública Anexo 
+metodológico del índice de riesgo de corrupción de 
+México. Pág. 12-65. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 17 =====
+ 
+ 
+ 
+ 
+  |  17  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 11 
+NOMBRE DEL INDICADOR 
+Procedimiento sin concurrencia de invitados. 
+DEFINICIÓN 
+Mide si un procedimiento no tiene concurrencia de invitados. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Por adjudicar. 
+FÓRMULA DE CÁLCULO 
+𝑌! =  𝑋1 
+ 
+Donde: 
+Yi: Único oferente en la unidad de observación i (proceso). 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si cumple o no con un único oferente. 
+ 
+Cuando X1 es 0, significa el procedimiento no tiene un único oferente. 
+Cuando X1 es 1, significa el procedimiento tiene un único oferente. 
+ 
+DEFINICIÓN DE LAS VARIABLES 
+RELACIONADAS  
+Procedimientos con participación de un solo oferente: Son los procedimientos donde participa un solo 
+oferente. 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Procedimientos con participación de un solo oferente: módulo resultados de la publicación acta de 
+calificación. 
+ 
+ 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer el 
+total de ofertas realizadas en un procedimiento GEN y evaluarlo si cumple con un oferente, mediante 
+una sentencia condicional: 
+ 
+(𝑂𝐹 =  1) → 𝑃𝑂𝑈  
+
+===== PAGINA 18 =====
+ 
+ 
+ 
+ 
+  |  18  | 
+ 
+Donde: 
+OF:  Número de ofertas en un procedimiento de GEN. 
+POU: Procedimiento con único oferente 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1.  
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN 
+DEL INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa el procedimiento no tiene 
+un único oferente. 
+Cuando X1 es 1, significa el procedimiento tiene un 
+único oferente. 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública. 
+Artículo 4 
+ 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+Instituto Mexicano para la Competitividad (2018). 
+Centro de Investigación en Política Pública Anexo 
+metodológico del índice de riesgo de corrupción de 
+México. Pág. 12-65. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 19 =====
+ 
+ 
+ 
+ 
+  |  19  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 12 
+NOMBRE DEL INDICADOR 
+Procedimiento con bienes y servicios que posiblemente no se 
+relacionan con el CPC elegido. 
+DEFINICIÓN 
+Determina si el procedimiento de contratación con bienes y 
+servicios que no se relaciona con el CPC. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Publicación  
+FÓRMULA DE CÁLCULO 
+𝑌! =  𝑋1 
+ 
+Donde: 
+Yi: Relación de los bienes y servicios a adquirir con el CPC en la unidad de observación i (proceso). 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si existe o no relación de los bienes y servicios a 
+adquirir con el CPC. 
+ 
+Cuando X1 es 0, significa que no existe relación de los bienes y servicios a adquirir con el CPC. 
+Cuando X1 es 1, significa que existe relación de los bienes y servicios a adquirir con el CPC. 
+DEFINICIÓN DE LAS VARIABLES RELACIONADAS  
+Procedimiento con código CPC no relacionado: Son procedimientos cuyo objeto de contratación, no 
+guarda relación con el código CPC, provocando así, la falta de concurrencia. 
+ 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Procedimiento con código del Clasificador Central de Productos no relacionado: Legible a máquina y 
+ubicado en el Módulo productos/detalle bienes y servicios/categoría 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer la 
+información de cada uno los bienes y servicios que constan en el apartado de productos.   
+ 
+A su vez, se debe agrupar los bienes y servicios según su CPC nivel 5: 
+ 
+CPC a nivel 5: Descripción 
+CPC a nivel 9: Descripción bien y/o servicio 
+
+===== PAGINA 20 =====
+ 
+ 
+ 
+ 
+  |  20  | 
+44150: 
+OTROS 
+TRACTORES 
+EXCEPTO 
+TRACTORES DE ORUGA UNIDADES MOTRICES DE 
+CARRETERA 
+PARA 
+SEMIRREMOLQUES 
+Y 
+TRACTORES DEL TIPO UTILIZADO EN LOS 
+ANDENES DE LAS ESTACIONES DE FERROCARRIL 
+441500011: TRACTORES DE CARRETERA 
+441500012: TRACTORES DE JARDIN 
+441500013: TRACTORES DE RUEDAS 
+441500014: TRACTORES DE VAPOR 
+ 
+Consecuentemente, se evalúan elementos en común entre el detalle de cada bien y servicio expuesto en
+el apartado de productos del procedimiento con cada bien y servicio que se agrupó a través del 
+Clasificador Central de Productos (CPC) a nivel 5.   
+ 
+𝐶= 𝐵𝑆∩𝐶𝐵𝑆 
+ 
+Donde:   
+BS: Conjunto de bienes y servicios detallados a adquirir en el procedimiento. 
+CBS: Conjunto de bienes y servicios que pertenecen al nivel 5 de cada CPC. 
+C: Conjunto de bienes y servicios en común.  
+ 
+Se deben usar expresiones regulares para la búsqueda de patrones de cadenas de caracteres. Así como 
+técnicas de minería de texto para eliminar pronombres y preposiciones tanto del detalle de cada bien y 
+servicios que consta en el procedimiento, así como de la descripción de todos los productos y servicios 
+que corresponden al nivel 5 del CPC. De forma que, el número de elementos en común se compare con el 
+número de bienes y servicios a adquirir del procedimiento. 
+ 
+ 𝑛 (𝐶) < 𝑛 (𝐵𝑆) →𝑃𝑆𝑅  
+Donde: 
+n(C): Número de elementos del conjunto de bienes y servicios en común. 
+n(BS): Número de elementos del conjunto de bienes y servicios a adquirir del procedimiento. 
+PSR: Procedimiento de contratación con bienes y servicios sin relaciona con el CPC. 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1. 
+UNIDAD DE MEDIDA O EXPRESIÓN DEL 
+INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa que no existe relación de los 
+bienes y servicios a adquirir con el CPC. 
+Cuando X1 es 1, significa que existe relación de los 
+bienes y servicios a adquirir con el CPC. 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+
+===== PAGINA 21 =====
+ 
+ 
+ 
+ 
+  |  21  | 
+ 
+RELACIÓN CON LA NORMATIVA 
+ 
+Codificación de Resoluciones del SERCOP 
+Artículos 102-104 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+ 
+Codificación de Resoluciones del SERCOP 
+Artículos 102-104 
+D. Salazar, A. Angles (2018). El diseño institucional de 
+la corrupción: vacíos regulatorios en contrataciones 
+públicas con el Estado. Análisis del Programa Nacional 
+de Dotación de Materiales Educativos del Perú. Pág. 
+11-12. 
+ 
+A. Revilla (2011). La transparencia en la ley de 
+contrataciones del Estado. Pág. 2, 6,27. 
+ 
+A. Jones (2021). Combating Corruption and Collusion 
+in UK Public Procurement: Proposals for Post-Brexit 
+Reform.Pág.1. 
+ 
+M. Fazekas, et. al (2013). Anatomy of grand 
+corruption: A composite corruption risk index based 
+on objective data. Pag.7,13,14,16. 
+ 
+S. Prenisha, C. Mubangizi John (2017). U sing the law 
+to combat public procurement corruption in South 
+Africa: lessons from Hong Kong. Pág 21. 
+ 
+C. 
+Pimenta 
+(2002). 
+Gestión 
+de 
+compras 
+y 
+contrataciones gubernamentales. Pág 6. 
+ 
+V. Davydenko et.al (2017). Adaptation of Cluster 
+Analysis Methods in Respect to Vector Space of Social 
+Network Analysis Indicators for Revealing Suspicious 
+Government Contracts. Pág.57-62. 
+ 
+O. Vaitsekhovska et.al (2017) Combating corruption 
+in the public sector: International legal standards and 
+their implementation in the legislation of Ukraine. Pag 
+5. 
+ 
+C. Kenny, M. Musatova (2010). ‘Red Flags of 
+Corruption’ in World Bank Projects An Analysis of 
+Infrastructure Contracts. Pag 10-11. 
+ 
+ 
+
+===== PAGINA 22 =====
+ 
+ 
+ 
+ 
+  |  22  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 18 
+NOMBRE DEL INDICADOR 
+Procedimiento con supuesto sobreprecio. 
+DEFINICIÓN 
+Mide si el procedimiento tiene sobreprecio en relación a su 
+presupuesto referencial. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Adjudicada 
+FÓRMULA DE CÁLCULO 
+𝑌! = 𝑋1 
+Donde: 
+Yi: Procedimiento con sobreprecio en el periodo t. 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si existe o no un supuesto sobreprecio.  
+ 
+Cuando X1 es 0, significa que no existe sobreprecio.  
+Cuando X1 es 1, significa que existe un supuesto sobreprecio. 
+ 
+DEFINICIÓN DE LAS VARIABLES RELACIONADAS  
+Precio unitario referencial. -Procedimientos de contratación con un valor referencial con sobreprecio 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Precio unitario referencial. - Ubicada en el Módulo resultados de la publicación, estudio del presupuesto 
+referencial y todos sus respaldos. 
+ 
+ 
+METODOLOGÍA DE CÁLCULO 
+A su vez se debe ordenar los precios unitarios de menor a mayor. Consecuentemente se debe calcular l el 
+primer y tercer cuartil del conjunto de datos históricos de los bienes y servicios por su Clasificador Central 
+de Productos (CPC) a nivel 9. A su vez, se debe calcular el rango intercuartílico que es la diferencia entre 
+el primer cuartil y el tercer cuartil. Con el fin de determinar los valores atípicos se evaluarán los precios 
+unitarios mediante la siguiente condición: 
+ 
+𝑃𝑈< 𝑄& –  1.5 ∗𝐼𝑄𝑅 → 𝑃𝑆𝑃 
+𝑃𝑈> 𝑄' + 1.5 ∗𝐼𝑄𝑅 → 𝑃𝑆𝑃 
+
+===== PAGINA 23 =====
+ 
+ 
+ 
+ 
+  |  23  | 
+ 
+Donde:  
+PU: Precios unitarios de los bienes y servicios según su CPC a nivel 9. 
+Q1: Primer cuartil. 
+Q3: Tercer cuartil.  
+IQR: Rango Intercuartílico. 
+PSP: Procedimientos con sobreprecio. 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1. 
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN DEL 
+INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa que no existe sobreprecio.  
+Cuando X1 es 1, significa que existe un supuesto 
+sobreprecio. 
+ 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+ 
+Código Integral Penal 
+Artículo 60  
+Codificación de Resoluciones 
+Artículo 9 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+D. Salazar, A. Angles (2018). El diseño institucional 
+de la corrupción: vacíos regulatorios en 
+contrataciones públicas con el Estado. Análisis del 
+Programa Nacional de Dotación de Materiales 
+Educativos del Perú. Pág. 11-12. 
+ 
+M. García Mejía (2011). Metodología para el 
+diagnóstico, prevención y control de la corrupción en 
+programas de seguridad ciudadana. Pág. 29-30. 
+ 
+A. Jones (2021). Combating Corruption and Collusion 
+in UK Public Procurement: Proposals for Post-Brexit 
+Reform.Pág.1 
+ 
+C. Pimenta (2002). Gestión de compras y 
+
+===== PAGINA 24 =====
+ 
+ 
+ 
+ 
+  |  24  | 
+contrataciones gubernamentales. Pág. 6. 
+ 
+I. Adam et. Al (2020). Más allá de las fugas: 
+cuantificando los efectos de la corrupción en el sector 
+de agua y saneamiento de América Latina y el Caribe. 
+Pág.  9. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 25 =====
+ 
+ 
+ 
+ 
+  |  25  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 19 
+NOMBRE DEL INDICADOR 
+Número de proveedores que participan o adjudican en el 
+proceso de GEN con diferentes clasificaciones en su CPC.  
+DEFINICIÓN 
+Mide si un proveedor cuyo RUP cuenta con numerosos registros 
+de CPC incompatibles entre sí, participa en los procesos de GEN. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Adjudicada 
+FÓRMULA DE CÁLCULO 
+𝑌! =  𝑋1 
+ 
+Donde: 
+Yi: Proveedor multi propósito en la unidad de observación i (proceso). 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si cumple o no con la resolución de 
+declaratoria. 
+ 
+Cuando el proceso se encuentra a partir de la etapa adjudicado: 
+ 
+X1 es 0, significa que el procedimiento no contiene un proveedor multi propósito como adjudicatario 
+del contrato. 
+ 
+X1 es 1, significa que el procedimiento contiene un proveedor multi propósito como adjudicatario del 
+contrato. 
+ 
+Cuando el proceso se encuentra en la etapa antes de la adjudicación: 
+ 
+X1 es 0, significa que el procedimiento no contiene un proveedor participante multi propósito  
+ 
+X1 es 1, significa que el procedimiento contiene un proveedor participante multi propósito  
+ 
+DEFINICIÓN DE LAS VARIABLES 
+RELACIONADAS  
+Proveedor. - Persona natural o jurídica que provee bienes, servicios y obra. 
+Proveedor multi propósito. - Proveedor que tiene varios CPC a nivel 5 habilitados en su RUP. 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+
+===== PAGINA 26 =====
+ 
+ 
+ 
+ 
+  |  26  | 
+Proveedor. – Legible a máquina en el Módulo búsqueda de proveedores por cpc 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos del registro de los proveedores, se debe extraer los CPC a nivel 5 que 
+se encuentra habilitado el proveedor. 
+A la vez, se debe contar de forma única los CPC habilitados para el proveedor que sean diferentes a nivel 
+5 y compararlo con un parámetro discrecional (El número correspondiente al cuarto cuartil por número 
+de CPC5 adjudicados al proveedor) que indique si un proveedor se encuentra habilitado para varios 
+CPC.   
+𝑛(𝐶𝑃𝐶) ≥ 𝑋 → 𝑃𝑀𝑃 
+Donde: 
+n(CPC): Número de CPC a nivel 5 habilitados para un proveedor. 
+X: Parámetro discrecional (El número correspondiente al cuarto cuartil por número de CPC5 
+adjudicados al proveedor). 
+PMP: Proveedor multi propósito. 
+ 
+Al tener un listado de lo que llamaremos proveedores multi propósitos, se debe evaluar los 
+procedimientos en el que estos proveedores se han adjudicado contratos.  
+ 
+𝑃𝑀𝑃 ∈𝐴𝑃 
+ 
+Donde: 
+PMP: Proveedor multi propósito. 
+AP: Conjunto de proveedores adjudicados. 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1. 
+ 
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN 
+DEL INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa que el procedimiento no 
+contiene un proveedor multi propósito como 
+adjudicatario del contrato. 
+Cuando X1 es 1, significa que el procedimiento 
+contiene un proveedor multi propósito como 
+adjudicatario del contrato. 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+
+===== PAGINA 27 =====
+ 
+ 
+ 
+ 
+  |  27  | 
+ 
+PERIODICIDAD DEL INDICADOR 
+Diario 
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+Codificación de Resoluciones del SERCOP 
+Artículos 102-104 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+ 
+Instituto Mexicano para la Competitividad 
+(2018). Centro de Investigación en Política 
+Pública Anexo metodológico del índice de 
+riesgo de corrupción de México. Pág 12-65. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 28 =====
+ 
+ 
+ 
+ 
+  |  28  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 22 
+NOMBRE DEL INDICADOR 
+Procedimiento que posiblemente no cumple con la normativa de 
+publicación de documentación relevante. 
+DEFINICIÓN 
+Mide si los procedimientos GEN que han sido adjudicados 
+contienen la documentación considerada relevante. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Adjudicada 
+FÓRMULA DE CÁLCULO 
+𝑌𝑖 =  𝑋1  
+ 
+Donde: 
+Yi: Procedimiento con documentación relevante en la unidad de observación i (proceso). 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si existe o no documentación relevante. 
+ 
+Cuando X1 es 0, significa que el procedimiento no contiene la documentación relevante mínima. 
+Cuando X1 es 1, significa que el procedimiento contiene la documentación relevante mínima. 
+ 
+DEFINICIÓN DE LAS VARIABLES RELACIONADAS  
+Documentación relevante. - Se considera información relevante la información pertinente de todas las 
+fases del procedimiento de contratación, que conforme lo determina el artículo 8 de la Codificación de 
+Resoluciones, como obligación de publicación. 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+ 
+Documentación relevante: Ubicada en el Módulo de archivos. 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de GEN, se debe extraer la información respecto a 
+la publicación de documentación relevante. La documentación relevante contiene al menos 10 
+documentos: certificación presupuestaria, estudio de mercado, pliegos, tdr o especificaciones técnicas, 
+acta de preguntas y respuestas, acta de apertura de ofertas, actas de convalidación de errores, 
+convalidación de errores, acta de calificación, ofertas, informe de recomendación. 
+ 
+
+===== PAGINA 29 =====
+ 
+ 
+ 
+ 
+  |  29  | 
+A su vez, se evalúa que la documentación relevante en el procedimiento de contratación, mediante la 
+siguiente condición.   
+ 
+𝐷𝑅 ⊂ 𝐺𝐸𝑁  
+Donde:   
+DR: Conjunto de documentación relevante. 
+GEN: Procedimiento de Giro Específico de Negocio. 
+ 
+La presencia de la documentación relevante debe cumplir con al menos 10 documentos, de forma que se 
+establece la siguiente condición: 
+ 
+𝐷𝑅 ≥ 10 → 𝐷𝑅𝐶 
+Donde: 
+DR: Conjunto de documentación relevante. 
+DRC: Documentación relevante completa. 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1.   
+UNIDAD DE MEDIDA O EXPRESIÓN DEL 
+INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa que el procedimiento no 
+contiene la documentación relevante mínima. 
+Cuando X1 es 1, significa que el procedimiento 
+contiene la documentación relevante mínima. 
+ 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+ 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública 
+Artículo 17 
+Codificación de Resoluciones 
+Artículo 8 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+ 
+D. Salazar, A. Angles (2018). El diseño institucional de 
+la corrupción: vacíos regulatorios en contrataciones 
+públicas con el Estado. Análisis del Programa Nacional 
+de Dotación de Materiales Educativos del Perú. Pág. 
+11-12.  
+
+===== PAGINA 30 =====
+ 
+ 
+ 
+ 
+  |  30  | 
+ 
+N. Charron et.al (2016). Careers, Connections, and 
+Corruption Risks: Investigating the Impact of 
+Bureaucratic Meritocracy on Public Procurement 
+Processes. Pag 5. 
+ 
+M. García Mejía (2011). Metodología para el 
+diagnóstico, prevención y control de la corrupción en 
+programas de seguridad ciudadana. Pág. 29-30. 
+M. Bauhr, et al (2019). Lights on the shadows of public 
+procurement: Transparency as an antidote to 
+corruption. Pag. 10,15,16. 
+ 
+J. Ferwerda et.al (2016). Corruption in Public 
+Procurement: Finding the Right Indicators. Pag 8-17. 
+ 
+M. Jorquera (2019). Compras Públicas y Big Data: 
+Investigación en Chile sobre Índice de Riesgo de 
+Corrupción.Pág.24,25,26,28. 
+ 
+Á. Czibik et. al (2020). State Capture and Defence 
+Procurement in the EU. Pag. 9-19. 
+ 
+A. Neupane et.al (2014). An empirical evaluation of 
+the potential of public e-procurement to reduce 
+corruption. Pag 2. 
+ 
+Instituto Mexicano para la Competitividad (2018). 
+Centro de Investigación en Política Pública Anexo 
+metodológico del índice de riesgo de corrupción de 
+México. Pág. 12-65. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 31 =====
+ 
+ 
+ 
+ 
+  |  31  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 25 
+NOMBRE DEL INDICADOR 
+Procedimiento que posiblemente tiene un corto plazo de 
+adjudicación. 
+DEFINICIÓN 
+Mide los procedimientos en cuya fecha de apertura de ofertas y 
+la fecha de adjudicación es menor a los 3 días establecidos en la 
+normativa. 
+ 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Adjudicada 
+FÓRMULA DE CÁLCULO 
+𝑌! =  𝑋1 
+ 
+Donde: 
+Yi: Plazos de calificación en la unidad de observación i (proceso). 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si cumple o no los plazos de calificación. 
+ 
+Cuando X1 es 0, significa que no cumple los plazos de calificación. 
+Cuando X1 es 1, significa que cumple los plazos de calificación 
+ 
+DEFINICIÓN DE LAS VARIABLES 
+RELACIONADAS  
+Adjudicación: Es el acto administrativo por el cual la máxima autoridad o el órgano competente otorga 
+derechos y obligaciones de manera directa al oferente seleccionado. 
+Cronograma: Fechas que se establecen en función del procedimiento de contratación. 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Adjudicación: Verificable en el módulo archivos 
+Cronograma: Verificable en el módulo fechas 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer la 
+información respecto a las fechas de apertura de ofertas y de adjudicación. Consecuentemente, la fecha 
+se evalúa con la siguiente condición: 
+ 
+
+===== PAGINA 32 =====
+ 
+ 
+ 
+ 
+  |  32  | 
+𝐹𝐴 − 𝐹𝐴𝑂 <  3 → 𝑃𝑃𝐶𝐴  
+Donde: 
+FA: Fecha de adjudicación 
+FAO: Fecha de apertura de ofertas. 
+PPCA: Procedimiento con plazos cortos de adjudicación. 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1.   
+UNIDAD DE MEDIDA O EXPRESIÓN 
+DEL INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa que no cumple los plazos 
+de calificación. 
+Cuando X1 es 1, significa que cumple los plazos de 
+calificación 
+ 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Diario 
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública 
+Artículo 4 
+Codificación de Resoluciones 
+Artículo 168.A 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+ 
+M. Fazekas et. Al (2016).  An Objective 
+Corruption Risk Index Using Public 
+Procurement Data. Pág. 22, 369–397. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 33 =====
+ 
+ 
+ 
+ 
+  |  33  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 27 
+NOMBRE DEL INDICADOR 
+Procedimiento declarado desierto posiblemente sin motivación. 
+DEFINICIÓN 
+Mide si el procedimiento se declaró desierto sin la resolución de 
+declaratoria. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+Desierto 
+FÓRMULA DE CÁLCULO 
+ 
+𝑌! =  𝑋1 
+ 
+Donde: 
+Yi: Resolución de declaratorio desierto en la unidad de observación i (proceso). 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si cumple o no con la resolución de 
+declaratoria. 
+ 
+Cuando X1 es 0, significa que el procedimiento no contiene la resolución de declaratoria. 
+Cuando X1 es 1, significa que el procedimiento contiene la resolución de declaratoria. 
+ 
+DEFINICIÓN DE LAS VARIABLES 
+RELACIONADAS  
+Resolución de declaratoria de desierto. – Es el acto administrativo emitido por la máxima autoridad de 
+cancelar el procedimiento de contratación y que no dará lugar a ningún tipo de reparación o 
+indemnización a los oferentes. 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Resolución de declaratoria de desierto. -  Ubicado en el Módulo descripción archivo, el documento 
+probatorio es la Resolución declaratoria de desierto. 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de GEN, se debe extraer y evaluar si la resolución 
+de declaratoria de desierto pertenece al procedimiento, mediante la siguiente condición: 
+ 
+𝑅𝐷 ∈ 𝐺𝐸𝑁 → 𝑃𝑅𝐷 
+
+===== PAGINA 34 =====
+ 
+ 
+ 
+ 
+  |  34  | 
+Donde: 
+RD: Resolución de declaratoria de desierto. 
+GEN: Los archivos del procedimiento de Giro Específico de Negocio. 
+PSRD: Procedimiento con resolución de declaratoria. 
+  
+El nombre del documento contiene la frase “Resolución declaratoria de desierto” y se recomienda usar 
+expresiones regulares para la búsqueda de patrones de cadenas de caracteres. 
+ 
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1.  
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN 
+DEL INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa que el procedimiento no 
+contiene la resolución de declaratoria. 
+Cuando X1 es 1, significa que el procedimiento 
+contiene la resolución de declaratoria de desierto 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+ 
+RELACIÓN CON LA NORMATIVA 
+ 
+Constitución de la República del Ecuador 
+Artículo 76 literal l 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública 
+Artículo 33 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+ 
+M. Fazekas, et.al (2013).  Anatomy of grand 
+corruption: A composite corruption risk index 
+based on objective data. Pag.7,13,14,16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 35 =====
+ 
+ 
+ 
+ 
+  |  35  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 28 
+NOMBRE DEL INDICADOR 
+Procedimiento que posiblemente contiene contratos 
+complementarios. 
+DEFINICIÓN 
+Mide si el procedimiento tiene contratos complementarios  
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+En recepción 
+FÓRMULA DE CÁLCULO 
+𝑌! =  𝑋1 
+ 
+Donde: 
+Yi:  Contratos complementarios en la unidad de observación i (proceso). 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si cumple o no con contratos complementarios. 
+ 
+Cuando X1 es 0, significa que el procedimiento no contiene contratos complementarios. 
+Cuando X1 es 1, significa que el procedimiento contiene contratos complementarios. 
+DEFINICIÓN DE LAS VARIABLES 
+RELACIONADAS  
+Contratos complementarios. Corresponden a los contratos de GEN, de adquisición de servicios en los 
+que fuere necesario ampliar, modificar o complementar una obra o servicio determinado por causas 
+imprevistas o técnicas, debidamente motivadas, presentadas con su ejecución con el mismo contratista. 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Contratos complementarios: Legible a máquina, se encuentra en el Módulo archivos, archivo contratos 
+complementarios. 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer y 
+evaluar si el contrato complementario pertenece al procedimiento, mediante la siguiente condición: 
+  
+𝐶𝐶 ∈ 𝐺𝐸𝑁 → 𝑃𝐶𝐶 
+Donde: 
+CC: Contrato complementario. 
+GEN: Los archivos del procedimiento de Giro Específico de Negocio. 
+
+===== PAGINA 36 =====
+ 
+ 
+ 
+ 
+  |  36  | 
+PCC: Procedimiento con contratos complementarios. 
+  
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1. 
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN 
+DEL INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa que el procedimiento no 
+contiene contratos complementarios. 
+Cuando X1 es 1, significa que el procedimiento 
+contiene contratos complementarios. 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+NIVEL DE DESAGREGACIÓN 
+Proceso 
+ 
+RELACIÓN CON LA NORMATIVA 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública 
+Artículo 85 
+ 
+ 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+F. Decarolis, C. Giorgiantonio (2020). Corruption 
+Red Flags in Public Procurement: New Evidence 
+From Italian Calls for Tenders. Pag 12,18,19.  
+E. Tishchenko (2016). Special Aspects of 
+Criminal Activity in the Field of Public and 
+Municipal Procurement. Pág. 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 37 =====
+ 
+ 
+ 
+ 
+  |  37  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 29 
+NOMBRE DEL INDICADOR 
+Procedimiento que posiblemente contiene contratos 
+modificatorios. 
+DEFINICIÓN 
+Mide si el procedimiento de GEN tiene un contrato 
+modificatorio. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN). 
+ETAPA DEL PROCESO 
+En recepción 
+FÓRMULA DE CÁLCULO 
+𝑌! = 𝑋1 
+Donde: 
+Yi:  Contratos modificatorios en la unidad de observación i (proceso). 
+X1: Variable ficticia que toma valores de 0 y 1 en razón si cumple o no con contratos modificatorios. 
+ 
+Cuando X1 es 0, significa que el procedimiento no contiene contratos modificatorios. 
+ando X1 es 1, significa que el procedimiento contiene contratos modificatorios. 
+DEFINICIÓN DE LAS VARIABLES 
+RELACIONADAS  
+Contrato modificatorio. - Son los contratos que elaboran las entidades contratantes para corregir 
+errores manifiestos de hecho, de trascripción o de cálculo que se hubieren producido de buena fe en 
+las cláusulas contractuales, las entidades podrán celebrar contratos modificatorios que enmienden los 
+errores encontrados. 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Contratos modificatorios: Legible a máquina y ubicado en el Módulo archivos, archivo contratos 
+modificatorios. 
+ 
+METODOLOGÍA DE CÁLCULO 
+La metodología expuesta a continuación describe la etapa de cálculo para obtener el indicador. 
+Una vez obtenida la base de datos de procedimientos de Giro Específico de Negocio, se debe extraer y 
+evaluar si el contrato modificatorio pertenece a los archivos del procedimiento, mediante la siguiente 
+condición: 
+  
+𝐶𝑀 ∈ 𝐺𝐸𝑁 → 𝑃𝐶𝑀  
+Donde: 
+CM: Contrato modificatorio. 
+
+===== PAGINA 38 =====
+ 
+ 
+ 
+ 
+  |  38  | 
+GEN: Los archivos del procedimiento de Giro Específico de Negocio. 
+PCM: Procedimiento con contratos modificatorios. 
+  
+A su vez, el resultado de la sentencia condicional puede ser transformado a una variable ficticia de valor 
+0 y 1. 
+ 
+UNIDAD DE MEDIDA O EXPRESIÓN 
+DEL INDICADOR 
+Número 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+Cuando X1 es 0, significa que el procedimiento no 
+contiene contratos modificatorios. 
+ando X1 es 1, significa que el procedimiento 
+contiene contratos modificatorios. 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Mensual 
+ 
+ 
+RELACIÓN CON LA NORMATIVA 
+Ley Orgánica del Sistema Nacional de Contratación 
+Pública. 
+Artículo 72 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+F. Boehm, J. Olaya (2006). Corruption in public 
+contracting auctions: The role of transparency in 
+bidding processes. Pág. 6. 
+ 
+Instituto Mexicano para la Competitividad (2018). 
+Centro de Investigación en Política Pública Anexo 
+metodológico del índice de riesgo de corrupción de 
+México. Pág. 12-65. 
+ 
+M. Fazekas et. al (2016). An Objective Corruption 
+Risk Index Using Public Procurement Data. Pág. 22, 
+369–397. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 39 =====
+ 
+ 
+ 
+ 
+  |  39  | 
+ 
+FICHA METODOLÓGICA – INDICADOR 
+COMPUESTO 
+NOMBRE DEL INDICADOR 
+Indicador Compuesto GEN-Proceso 
+DEFINICIÓN 
+Mide el nivel de efectividad agregado del SOCE en función de un 
+conjunto de 15 indicadores individuales para cada estado del 
+proceso de contratación. 
+PROCESO CONTRACTUAL 
+Giro Específico de Negocio (GEN) 
+ETAPA DEL PROCESO 
+Todos 
+METODOLOGÍA DE CÁLCULO Y VARIABLES 
+RELACIONADAS 
+1. Identificar los indicadores que se utilizarán para el cálculo del indicador compuesto por estado. 
+2. Generar una tabla que contenga la siguiente información para cada proceso, ordenados por fecha 
+(de más antiguo a más reciente) y representada por las siguientes columnas:  
+● Indicador individual (Ind 1, Ind 2, Ind n): Es la calificación de cada proceso obtenida para 
+cada indicador. Esta calificación es binaria y toma el valor de “1” cuando el proceso cumple 
+con el criterio de no corrupción y de “0” cuando no cumple con dicho criterio. 
+● Suma: resultado de sumar el valor asignado para cada indicador (por proceso a nivel diario). 
+● Calificación (promedio): valor resultante de dividir la suma sobre el número de indicadores 
+(por proceso a nivel diario). Multiplicar por 100. 
+● Monto: Para todos los cálculos que tomen en cuenta el monto, se incluirá el monto 
+adjudicado para aquellos estados en donde dicha información se encuentre disponible. De 
+lo contrario, se tomará en cuenta el monto presupuestado.  
+ 
+La siguiente tabla contiene un ejemplo de visualización para 5 indicadores y “n” procesos 
+
+===== PAGINA 40 =====
+ 
+ 
+ 
+ 
+  |  40  | 
+ 
+ 
+3. Agregar los resultados obtenidos en el paso 2 con periodicidad mensual o anual, según sea el caso. 
+Adicionalmente, se puede calcular la moda de las calificaciones, desviación estándar de las 
+calificaciones y la desviación estándar del monto. 
+La siguiente tabla contiene un ejemplo para periodicidad mensual: 
+ 
+● Calificación mensual (anual): promedio de las calificaciones de los procesos en un mismo 
+mes (año). 
+● Desviación estándar: desviación estándar de la calificación mensual. 
+● Moda: valor que más se repite en un mes (se obtiene de la tabla del paso 2). 
+● Desviación estándar del monto presupuestado o ejecutado: se obtiene el promedio del 
+monto presupuestado/ejecutado por mes y luego se calcula su desviación estándar. 
+Nota: de ser posible, tomar el monto adjudicado. 
+ 
+4. Se procede a graficar 
+ 
+CARACTERÍSTICAS DE LAS VARIABLES 
+RELACIONADAS 
+Calificación de los indicadores individuales: variable binaria que toma los valores de “0” o “1”. 
+Monto: Para todos los cálculos que tomen en cuenta el monto, se incluirá el monto adjudicado para 
+aquellos estados en donde dicha información se encuentre disponible. De lo contrario, se tomará en 
+cuenta el monto presupuestado.  
+UNIDAD DE MEDIDA O EXPRESIÓN 
+DEL INDICADOR 
+Número. 
+
+===== PAGINA 41 =====
+ 
+ 
+ 
+ 
+  |  41  | 
+ 
+ 
+ 
+ 
+INTERPRETACIÓN DEL INDICADOR 
+El indicador compuesto se encuentra en un rango 
+entre “0” y “100”. Un indicador con una calificación 
+mayor describe procesos con un riesgo de 
+corrupción menor (una efectividad más alta). 
+ 
+ 
+FUENTE DE DATOS 
+Sistema de Contratación Pública del Ecuador. 
+ 
+PERIODICIDAD DEL INDICADOR 
+Diario   
+Mensual 
+Anual 
+NIVEL DE DESAGREGACIÓN 
+Proceso (todos los estados para los que haya 
+información disponible). 
+REFERENCIAS BIBLIOGRÁFICAS DE LA 
+CONSTRUCCIÓN DEL INDICADOR 
+D. Salazar, A. Angles (2018). El diseño institucional 
+de 
+la 
+corrupción: 
+vacíos 
+regulatorios 
+en 
+contrataciones públicas con el Estado. Análisis del 
+Programa Nacional de Dotación de Materiales 
+Educativos del Perú. Pág 11-12. 
+ 
+N. Charron et.al (2016). Careers, Connections, and 
+Corruption Risks: Investigating the Impact of 
+Bureaucratic Meritocracy on Public Procurement 
+Processes. Pág 5. 
+ 
+J. Ferwerda et.al (2016).Corruption in Public 
+Procurement: Finding the Right Indicators.Pág8,17. 
+ 
+C.Kenny,M. 
+Musatova 
+(2010).‘Red 
+Flags 
+of 
+Corruption’in World Bank Projects An Analysis of 
+Infrastructure Contracts. Pág 10-11. 
+ 

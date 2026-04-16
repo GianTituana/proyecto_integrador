@@ -1,0 +1,40 @@
+
+===== PAGINA 1 =====
+
+===== PAGINA 2 =====
+ 
+ 
+ 
+METODOLOGÍA PARA EL CÁLCULO DEL INDICADOR COMPUESTO A 
+NIVEL PROCESO 
+PROMEDIO PONDERADO 
+1. Identificar los indicadores que se utilizarán para el cálculo del indicador compuesto por estado. 
+2. Generar una tabla que contenga la siguiente información para cada proceso, ordenados por fecha 
+(de más antiguo a más reciente). 
+3. La siguiente tabla contiene un ejemplo de visualización para 5 indicadores y “n” procesos 
+ 
+§ Suma: resultado de sumar el valor asignado para cada indicador (por proceso a nivel diario) 
+§ Calificación (promedio): valor resultante de dividir la suma sobre el número de indicadores (por 
+proceso a nivel diario). Multiplicar por 100. 
+
+===== PAGINA 3 =====
+ 
+ 
+ 
+§ Monto: Para todos los cálculos que tomen en cuenta el monto, se incluirá el monto adjudicado 
+para aquellos estados en donde dicha información se encuentre disponible. De lo contrario, se 
+tomará en cuenta el monto presupuestado. La información del monto se utilizará para visualizar 
+la volatilidad de los montos en un periodo de tiempo determinado. 
+4. Agregar los resultados obtenidos en el paso 2 con periodicidad mensual o anual, según sea el 
+caso. Adicionalmente, se puede calcular la moda de las calificaciones, desviación estándar de las 
+calificaciones y la desviación estándar del monto. 
+5. La siguiente tabla contiene un ejemplo para periodicidad mensual: 
+ 
+§ Calificación mensual (anual): promedio de las calificaciones de los procesos en un mismo mes 
+(año). 
+§ Desviación estándar: desviación estándar de la calificación mensual. 
+§ Moda: valor que más se repite en un mes (se obtiene de la tabla del paso 2). 
+§ Desviación estándar del monto presupuestado o ejecutado: se obtiene el promedio del monto 
+presupuestado/ejecutado por mes y luego se calcula su desviación estándar. 
+§ Nota: de ser posible, tomar el monto adjudicado. 
+6. Se procede a graficar. 

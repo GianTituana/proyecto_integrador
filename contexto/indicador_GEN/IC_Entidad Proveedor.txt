@@ -1,0 +1,578 @@
+
+===== PAGINA 1 =====
+
+===== PAGINA 2 =====
+ 
+ 
+ 
+METODOLOGÍA PARA EL CÁLCULO DEL INDICADOR COMPUESTO A 
+NIVEL ENTIDAD | PROVEEDOR 
+RANKING 
+Para el caso de entidad y proveedor, se calcula un indicador compuesto basado en la metodología de 
+promedios ponderados para luego proceder a crear un ranking (mensual o anual, según sea el caso). 
+Consideraciones: 
+● Se define el desempeño de una entidad (o proveedor) como el nivel de riesgo que muestra de 
+acuerdo con los procesos en los que participa el proveedor o los procesos que publica en el caso 
+de entidades, medido como porcentaje. Dicho desempeño se evalúa de 0% a 100%, donde 100% 
+representa la ausencia de riesgos de corrupción. 
+● Dicho ranking ordena las entidades y los proveedores en función de su desempeño en una escala 
+de 0-100, donde 100 representa el mejor desempeño.  
+● La periodicidad de este indicador compuesto será mensual, y anual. 
+Además, previo al cálculo del indicador compuesto, se procedió a revisar los indicadores individuales 
+con el fin de homogeneizar la forma en la que están medidos, de tal forma que todos queden 
+expresados en una escala de 0-100, donde 100 representa el mejor desempeño. La Tabla 8 presenta 
+las transformaciones que se realizó por indicador en SIE y la Tabla 9 las transformaciones que se 
+realizaron para GEN. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGINA 3 =====
+ 
+ 
+ 
+Tabla 1. Transformaciones realizadas en las metodologías de Entidad y Proveedor en SIE. 
+ 
+ 
+INDICADOR EN SIE 
+CÁLCULO 
+1 
+Porcentaje de procedimientos con plazos 
+de entrega de bienes limitados. 
+Se calcula 100 menos el valor del indicador 
+4 
+Porcentaje de procedimientos con 
+preguntas acusatorias. 
+Se calcula 100 menos el valor del indicador 
+5 
+Número de procedimientos con reclamos 
+a la entidad 
+1= 100; 0=0 
+6 
+Número de procedimientos con 
+modificaciones a los documentos 
+precontractuales. 
+Se calcula la SD del indicador a nivel anual y se 
+aplica la siguiente regla: 
+ 
+Si el valor del indicador es igual a 0, el indicador 
+se califica con un 100. 
+ 
+Si el valor del indicador es mayor a 0 y menor al 
+promedio + 1SD, el indicador se califica con un 
+75. 
+ 
+Si el valor del indicador es mayor al promedio + 
+1SD y menor al promedio +2SD, el indicador se 
+califica con un 50. 
+ 
+Si el valor del indicador es mayor o igual al 
+promedio + 2SD, el indicador se califica con un 0. 
+9 
+Promedio de participantes por 
+procedimiento de Subasta Inversa 
+Electrónica. 
+ 
+Se calcula la SD del indicador a nivel anual y se 
+aplica la siguiente regla: 
+ 
+Si el valor del indicador es menor o igual a 1, el 
+indicador se califica con un 0. 
+ 
+Si el valor del indicador es mayor a 1 y menor al 
+promedio + 1SD, el indicador se califica con un 
+50. 
+ 
+Si el valor del indicador es mayor al promedio + 
+
+===== PAGINA 4 =====
+ 
+ 
+ 
+1SD y menor al promedio +2SD, el indicador se 
+califica con un 75. 
+ 
+Si el valor del indicador es mayor o igual al 
+promedio + 2SD, el indicador se califica con un 
+100. 
+11 
+Porcentaje de procedimientos de 
+contratación sin concurrencia de 
+oferentes. 
+Se calcula 100 menos el valor del indicador 
+15 
+Porcentaje de procesos sin verificación de 
+inhabilidades de los oferentes 
+Se calcula 100 menos el valor del indicador 
+17 
+Porcentaje de procedimientos con 
+supuesto sobreprecio. 
+Se calcula 100 menos el valor del indicador 
+19 
+Porcentaje de contratos publicados dentro 
+del plazo establecido en la norma. 
+No es necesario hacer transformaciones. 
+22 
+Porcentaje de procedimientos con un solo 
+oferente habilitado para la negociación. 
+Se calcula 100 menos el valor del indicador 
+26 
+Porcentaje de procedimientos con 
+contratos complementarios. 
+Se calcula 100 menos el valor del indicador 
+27 
+Porcentaje de procedimientos con 
+contratos modificatorios 
+Se calcula 100 menos el valor del indicador 
+
+===== PAGINA 5 =====
+ 
+ 
+ 
+25 
+Número de procedimiento SIE declarados 
+desierto sin motivación. 
+Se calcula la SD del indicador a nivel anual y se 
+aplica la siguiente regla: 
+ 
+Si el valor del indicador es igual a 0, el indicador 
+se califica con un 100. 
+ 
+Si el valor del indicador es mayor a 0 y menor al 
+promedio + 1SD, el indicador se califica con un 
+75. 
+ 
+Si el valor del indicador es mayor al promedio + 
+1SD y menor al promedio +2SD, el indicador se 
+califica con un 50. 
+ 
+Si el valor del indicador es mayor o igual al 
+promedio + 2SD, el indicador se califica con un 0. 
+ 
+Tabla 2. Transformaciones realizadas en las metodologías de Entidad y Proveedor en GEN. 
+ 
+ 
+# 
+NIVEL 
+PROCESO 
+ENTIDAD 
+PROVEEDOR 
+1 
+Se calcula la media anual. 
+Si es mayor que la media, 0 
+Si es menor que la media, 1. 
+Se calcula 100 menos el valor del 
+indicador 
+Se calcula 100 menos el valor del 
+indicador 
+2 
+Ya viene expresado con 0 / 1. Se calcula 100 menos el valor del 
+indicador 
+Se calcula 100 menos el valor del 
+indicador 
+4 
+Ya viene expresado con 0 / 1. Se calcula 100 menos el valor del 
+indicador 
+Se calcula 100 menos el valor del 
+indicador 
+5 
+Ya viene expresado con 0 /1. 
+ 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica la 
+siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+ 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica 
+la siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+
+===== PAGINA 6 =====
+ 
+ 
+ 
+Si el indicador es mayor a cero, 
+entonces: 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media pero 
+menor a la media +1SD, entonces el 
+valor es 25 
+ 
+Si es mayor o igual a la media +1SD, 
+entonces el valor es 0. 
+  
+Si el indicador es mayor a cero, 
+entonces: 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media 
+pero menor a la media +1SD, 
+entonces el valor es 25 
+ 
+Si es mayor o igual a la media 
++1SD, entonces el valor es 0. 
+6 
+Ya viene expresado con 0 / 1. 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica la 
+siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+Si el indicador es mayor a cero, 
+entonces: 
+ 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media pero 
+menor a la media +1SD, entonces el 
+valor es 25 
+ 
+Si es mayor o igual a la media +1SD, 
+entonces el valor es 0. 
+ 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica 
+la siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+Si el indicador es mayor a cero, 
+entonces: 
+ 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media 
+pero menor a la media +1SD, 
+entonces el valor es 25 
+ 
+Si es mayor o igual a la media 
++1SD, entonces el valor es 0. 
+ 
+9 
+Se calcula la media anual. 
+Si es mayor que la media, 1 
+Si es menor que la media, 0. 
+ 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica la 
+siguiente regla: 
+ 
+Si el valor es igual a 1, se asigna 0. 
+ 
+Si es mayor a 1, entonces: 
+ 
+ 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica 
+la siguiente regla: 
+ 
+Si el valor es igual a 1, se asigna 
+0.  
+ 
+Si es mayor a 1, entonces: 
+ 
+
+===== PAGINA 7 =====
+ 
+ 
+ 
+Si el valor del indicador es mayor a 
+1 y menor que la media menos 1SD, 
+el indicador se califica con un 25. 
+ 
+Si el valor del indicador es mayor o 
+igual a la media menos  1SD pero 
+menor a la media, el indicador se 
+califica con un 50. 
+ 
+Si el valor del indicador es mayor a 
+la media y menor a la media + 1SD, 
+el indicador se califica con un 75. 
+ 
+Si el valor del indicador es mayor o 
+igual a la media +1 SD, el indicador 
+se califica con 100. 
+Si el valor del indicador es mayor 
+a 1 y menor que la media menos 
+1SD, el indicador se califica con 
+un 25. 
+ 
+Si el valor del indicador es mayor 
+o igual a la media menos  1SD 
+pero menor a la media, el 
+indicador se califica con un 50. 
+ 
+Si el valor del indicador es mayor 
+a la media y menor a la media + 
+1SD, el indicador se califica con 
+un 75. 
+ 
+Si el valor del indicador es mayor 
+o igual a la media +1 SD, el 
+indicador se califica con 100. 
+ 
+11 
+Ya viene expresado con 0 / 1. Se calcula 100 menos el valor del 
+indicador 
+Se calcula 100 menos el valor del 
+indicador 
+12 
+Ya viene expresado con 0 / 1. Se calcula 100 menos el valor del 
+indicador 
+Se calcula 100 menos el valor del 
+indicador 
+18 
+Ya viene expresado con 0 / 1. Se calcula 100 menos el valor del 
+indicador 
+Se calcula 100 menos el valor del 
+indicador 
+19 
+Ya viene expresado con 0 / 1. 
+ 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica la 
+siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+Si el indicador es mayor a cero, 
+entonces: 
+ 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media pero 
+menor a la media +1SD, entonces el 
+valor es 25 
+ 
+ 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica 
+la siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+Si el indicador es mayor a cero, 
+entonces: 
+ 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media 
+pero menor a la media +1SD, 
+entonces el valor es 25 
+ 
+
+===== PAGINA 8 =====
+ 
+ 
+ 
+Si es mayor o igual a la media +1SD, 
+entonces el valor es 0. 
+ 
+Si es mayor o igual a la media 
++1SD, entonces el valor es 0. 
+22 
+Ya viene expresado con 0 / 1. 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica la 
+siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+Si el indicador es mayor a cero, 
+entonces: 
+ 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media pero 
+menor a la media +1SD, entonces el 
+valor es 25 
+ 
+Si es mayor o igual a la media +1SD, 
+entonces el valor es 0. 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica 
+la siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+Si el indicador es mayor a cero, 
+entonces: 
+ 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media 
+pero menor a la media +1SD, 
+entonces el valor es 25 
+ 
+Si es mayor o igual a la media 
++1SD, entonces el valor es 0. 
+25 
+Ya viene expresado con 0 / 1. Se calcula 100 menos el valor del 
+indicador 
+NA 
+27 
+Ya viene expresado con 0 / 1. 
+ 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica la 
+siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+Si el indicador es mayor a cero, 
+entonces: 
+ 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media pero 
+menor a la media +1SD, entonces el 
+valor es 25 
+ 
+Se calcula la SD y la media del 
+indicador a nivel anual y se aplica 
+la siguiente regla: 
+ 
+Si es cero, el valor es 100 
+ 
+Si el indicador es mayor a cero, 
+entonces: 
+ 
+Si es menor a la media -1SD, 
+entonces el valor es 75 
+ 
+Si está entre la media -1SD y la 
+media, entonces el valor es 50 
+ 
+Si es mayor o igual a la media 
+pero menor a la media +1SD, 
+entonces el valor es 25 
+
+===== PAGINA 9 =====
+ 
+ 
+ 
+Si es mayor o igual a la media +1SD, 
+entonces el valor es 0. 
+  
+Si es mayor o igual a la media 
++1SD, entonces el valor es 0 
+28 
+Ya viene expresado con 0 / 1. Se calcula 100 menos el valor del 
+indicador 
+Se calcula 100 menos el valor del 
+indicador 
+29 
+Ya viene expresado con 0 / 1. Se calcula 100 menos el valor del 
+indicador 
+Se calcula 100 menos el valor del 
+indicador 
+A continuación, se presenta un resumen de la metodología para calcular el indicador compuesto para 
+entidad y proveedor, con el fin de posteriormente desarrollar el ranking.  
+PASOS 
+1. Todos los indicadores deben estar medidos en una escala de 0-100 donde 0 es el peor 
+desempeño y 100 el mejor. 
+2. Calcular el promedio (calificación) de todos los indicadores individuales para cada entidad o 
+proveedor. Cada entidad o proveedor puede tener presencia en diferentes meses y años. 
+ 
+ENTIDAD/PROVEEDOR 
+FECHA (DIARIO) 
+INDICADOR 1 
+INDICADOR N 
+CALIFICACIÓN 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+N 
+ 
+ 
+ 
+ 
+
+===== PAGINA 10 =====
+ 
+ 
+ 
+3. Ordenar a las entidades o proveedores de mayor a menor en función de su calificación, y hacerlo 
+a nivel diario. A partir de esto, se obtiene un ranking de las entidades o proveedores por cada 
+período t, agrupando según la temporalidad deseada. 
+ 
+Para aquellas entidades o proveedores que presenten más de un proceso de contratación en el 
+mismo periodo de tiempo, su calificación para dicho periodo será el promedio de sus 
+calificaciones. Si la entidad (proveedor) no tiene procesos se debe descartar del cálculo. Si solo 
+tiene un proceso en un periodo determinado, la calificación de ese proceso es su calificación del 
+periodo. 
+4. Se calculan los cuatro niveles de riesgo de todas las calificaciones de las diferentes entidades o 
+proveedores para el período de tiempo en cuestión con el fin de clasificar a las entidades o 
+proveedores en dichos niveles de riesgo. Esta clasificación se expresa a través de un semáforo en 
+donde verde equivale al nivel de riesgo con los desempeños más altos. 
+ 
+Nivel de riesgo 4 
+Nivel de riesgo 3 
+Nivel de riesgo 2 
+Nivel de riesgo 1 
+5. Graficar 
+● Entidad/proveedor histórico (mensual o anual) 
+● Mediante un mapa de calor se mostrarán las entidades/proveedores ordenados por nivel de 
+riesgo (del 1 al 4) desde la parte superior derecha del mapa de calor, hasta la parte inferior 
+izquierda. El color de cada celda dependerá del valor del indicador compuesto y su 
+semaforización, esto mostrará una interpolación de los colores de forma gradual de verde 
+(nivel de riesgo 1) hacia rojo (nivel de riesgo 4), pasando por el amarillo (nivel de riesgo 2) y 
+naranja (nivel de riesgo 3). 
