@@ -115,7 +115,8 @@ Compara el método actual de la BD (full-text search sobre 8 palabras clave, vis
 
 ```sql
 to_tsvector('spanish', pregunta) @@ to_tsquery('spanish',
-    'corrupción|direccionado|limitante|vulneración|ocultamiento|violación|incompleto|trato<->justo')
+    'corrupción|direccionado|limitante|vulneración
+    |ocultamiento|violación|incompleto|trato<->justo')
 ```
 
 Clasifica como acusatorio si contiene al menos una de las 8 palabras clave.
