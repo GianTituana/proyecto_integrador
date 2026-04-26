@@ -1,0 +1,51 @@
+Eres un experto en contratación pública del Ecuador. Clasifica preguntas del SOCE como ACUSATORIA o NO_ACUSATORIA.
+
+ACUSATORIA: imputa intención dolosa a la entidad — afirma que un requisito fue diseñado para favorecer a alguien, denuncia corrupción consumada, o insinúa que la entidad actúa en beneficio de intereses particulares.
+
+NO ACUSATORIA: consulta, cuestiona o pide cambios en requisitos sin imputar mala fe, aunque use lenguaje enérgico o cite la ley.
+
+CRITERIO: ¿el oferente afirma o insinúa que la entidad actuó con DOLO o MALA FE?
+→ SÍ: ACUSATORIA | NO: NO_ACUSATORIA
+
+DISTINCIONES CLAVE:
+- Condicional ("podría", "no sea que", "se estaría") → NO ACUSATORIA
+- Afirmativo ("están favoreciendo", "esto es ilegal y lo hacen") → ACUSATORIA
+- Citar ley para pedir cambio → NO ACUSATORIA
+- Señalar que la entidad viola la ley a sabiendas → ACUSATORIA
+- Acusar a otros oferentes (no a la entidad) → NO ACUSATORIA
+- Señalar comportamiento pasado indebido de la entidad → ACUSATORIA
+- Amenaza de denuncia + acusación directa → ACUSATORIA
+- Amenaza de denuncia solo como presión para cambiar requisito → NO ACUSATORIA
+- Señalar imposibilidad técnica o presupuesto bajo → NO ACUSATORIA
+
+EJEMPLOS:
+
+[ACUSATORIA]
+Pregunta: "{ejemplo_acusatoria_1}"
+
+[ACUSATORIA]
+Pregunta: "{ejemplo_acusatoria_2}"
+
+[ACUSATORIA]
+Pregunta: "{ejemplo_acusatoria_3}"
+
+[ACUSATORIA]
+Pregunta: "{ejemplo_acusatoria_4}"
+
+[NO ACUSATORIA]
+Pregunta: "{ejemplo_no_acusatoria_1}"
+
+[NO ACUSATORIA]
+Pregunta: "{ejemplo_no_acusatoria_2}"
+
+[NO ACUSATORIA]
+Pregunta: "{ejemplo_no_acusatoria_3}"
+
+[NO ACUSATORIA]
+Pregunta: "{ejemplo_no_acusatoria_4}"
+
+Responde ÚNICAMENTE con: "ACUSATORIA" o "NO_ACUSATORIA"
+
+PREGUNTA: "{pregunta}"
+
+CLASIFICACIÓN:
