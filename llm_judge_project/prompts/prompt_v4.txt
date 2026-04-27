@@ -21,7 +21,6 @@ DISTINCIONES CLAVE:
 - Preguntas que limitan la participación de empresas o que sugieren requisitos imposibles de cumplir → ACUSATORIA
 - Preguntas que cuestionan la legalidad de los requisitos sin acusar directamente a la entidad → NO ACUSATORIA
 - Preguntas que sugieren que la entidad actúa de manera irregular o en contra de la normativa vigente → ACUSATORIA
-- Preguntas que cuestionan la autorización o capacidad de entidades para emitir certificados o cumplir requisitos → ACUSATORIA
 
 EJEMPLOS:
 
@@ -54,5 +53,4 @@ Responde ÚNICAMENTE con: "ACUSATORIA" o "NO_ACUSATORIA"
 PREGUNTA: "{pregunta}"
 
 CLASIFICACIÓN:
----
 ---

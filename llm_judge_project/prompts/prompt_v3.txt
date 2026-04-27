@@ -20,7 +20,6 @@ DISTINCIONES CLAVE:
 - Señalar imposibilidad técnica o presupuesto bajo → NO ACUSATORIA
 - Preguntas que limitan la participación de empresas o que sugieren requisitos imposibles de cumplir → ACUSATORIA
 - Preguntas que cuestionan la legalidad de los requisitos sin acusar directamente a la entidad → NO ACUSATORIA
-- Preguntas que sugieren que la entidad actúa de manera irregular o en contra de la normativa vigente → ACUSATORIA
 
 EJEMPLOS:
 

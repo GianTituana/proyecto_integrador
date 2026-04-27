@@ -19,7 +19,6 @@ DISTINCIONES CLAVE:
 - Amenaza de denuncia solo como presión para cambiar requisito → NO ACUSATORIA
 - Señalar imposibilidad técnica o presupuesto bajo → NO ACUSATORIA
 - Preguntas que limitan la participación de empresas o que sugieren requisitos imposibles de cumplir → ACUSATORIA
-- Preguntas que cuestionan la legalidad de los requisitos sin acusar directamente a la entidad → NO ACUSATORIA
 
 EJEMPLOS:
 
