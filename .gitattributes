@@ -15,3 +15,6 @@ contexto/indicador_GEN/*.pdf filter=lfs diff=lfs merge=lfs -text
 # LLM judge artifacts
 llm_judge_project/data/raw/** filter=lfs diff=lfs merge=lfs -text
 llm_judge_project/data/results/** filter=lfs diff=lfs merge=lfs -text
+
+# postgres
+postgres/** filter=lfs diff=lfs merge=lfs -text
