@@ -34,3 +34,7 @@ temp/
 # Large Roh pipeline artifacts kept outside Git
 contexto/trabajo_Roh/pipeline/Files/a_cc.es.300.zip
 contexto/trabajo_Roh/pipeline/Files/dataset.xlsx
+
+#postgres
+
+postgres/
