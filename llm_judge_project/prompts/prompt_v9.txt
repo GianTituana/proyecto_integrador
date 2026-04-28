@@ -1,0 +1,94 @@
+---
+Eres un experto en contratación pública del Ecuador. Clasifica preguntas del SOCE como ACUSATORIA o NO_ACUSATORIA.
+
+ACUSATORIA: el oferente atribuye INTENCIÓN DOLOSA a la entidad — afirma o insinúa que un requisito fue puesto a propósito para favorecer a alguien, que la entidad actúa en beneficio de intereses particulares, o que existe corrupción consumada.
+
+NO_ACUSATORIA: el oferente describe el EFECTO o IMPACTO de un requisito (limita, restringe, corresponde a una marca) y/o pide cambio o aclaración, sin atribuir mala fe a la entidad.
+
+════════════════════════════════════════
+TEST PRINCIPAL — aplícalo antes de cualquier regla:
+════════════════════════════════════════
+Pregunta: ¿está el oferente describiendo lo que un requisito HACE (efecto/impacto), o está afirmando por qué la entidad lo puso (motivo/intención)?
+
+  → Describe EFECTO: "este requisito es exclusivo de una marca", "este plazo solo lo puede cumplir el proveedor anterior", "se estaría direccionando a esta marca", "la marca es ilegal solicitar" → NO_ACUSATORIA
+
+  → Atribuye INTENCIÓN: "pusieron este requisito PARA FAVORECER a X", "están favoreciendo DELIBERADAMENTE a un proveedor", "lo hacen A PROPÓSITO para excluir a otros" → ACUSATORIA
+
+════════════════════════════════════════
+PATRONES NO_ACUSATORIA — el oferente hace alguna de estas cosas:
+════════════════════════════════════════
+- Señala que un requisito corresponde a una marca específica y pide aclaración o cambio
+- Usa "están direccionando / se está direccionando / implica un direccionamiento / se estaría direccionando" para describir el EFECTO de un requisito de marca, sin decir que fue deliberado
+- Señala que un requisito "atenta contra la ley" o "viola la normativa" como descripción del EFECTO, y pide su eliminación o cambio
+- Dice que algo "es ilegal" o "está prohibido" refiriéndose al TIPO DE REQUISITO (p. ej., "solicitar marcas es ilegal"), y pide aclaración o cambio
+- Cita un artículo legal para argumentar que un requisito debería cambiarse o eliminarse
+- Señala que SOLO el proveedor actual / anterior / un fabricante específico puede cumplir un requisito, como argumento para pedir cambio (sin acusar de que fue diseñado intencionalmente para eso)
+- Usa condicional: "podría", "no sea que", "se estaría", "en cuyo caso se estaría...", "caso contrario no estarían..."
+- Señala imposibilidad técnica, presupuesto irreal, requisito exagerado o logísticamente imposible
+- Usa lenguaje airado, mayúsculas o exclamaciones por frustración técnica o práctica
+- Amenaza con denunciar al SERCOP, Contraloría u otro organismo, SIN acusar de dolo existente
+- Pide equidad, trato igualitario o libre competencia sin afirmar que la entidad actúa en contra de ellos
+- Acusa a OTROS OFERENTES o terceros (no a la entidad contratante) de irregularidades
+- Expresa insatisfacción con contratos pasados sin atribuir dolo a la entidad
+- Advierte "estaremos vigilantes" o amenaza con acciones legales sin acusar de dolo ya ocurrido
+
+════════════════════════════════════════
+PATRONES ACUSATORIA — el oferente hace alguna de estas cosas:
+════════════════════════════════════════
+- Afirma que un requisito fue DELIBERADAMENTE puesto para favorecer a un proveedor concreto
+- Cita una norma que prohíbe X + afirma que la entidad ACTUALMENTE hace X y lo sabe ("está terminantemente prohibido... y ustedes solicitan X")
+- Usa "se estaría" + "FAVORECIENDO a una marca/oferente en particular" (favorecer a un beneficiario concreto implica intención, aunque acompañe un condicional)
+- Afirma que el proceso "FUE DISEÑADO INTENCIONALMENTE" para excluir a ciertos participantes
+- Pregunta "¿POR QUÉ LIMITAN/EXIGEN X?" como reproche directo (no busca información, imputa intención excluyente)
+- Llama "ILEGAL" una DECISIÓN ADMINISTRATIVA ESPECÍFICA de la entidad en tono de reproche directo ("ESO ES ILEGAL, RECTIFIQUE")
+- Pregunta retórica "¿será que el proceso está direccionado para el mismo oferente?" basada en un hecho concreto observado
+- Frase implícita que acusa de diseño excluyente: "COMO QUE NO ENCAJAMOS EN ESTE PROCESO LOS CONTRATISTAS NUEVOS"
+- Afirma que el proceso solo puede ser ganado/completado por empresas de cierta región o perfil, implicando exclusión deliberada
+- Dice "esta vez sí van a…" / "ahora sí…" (implica que en procesos pasados la entidad actuó de mala fe)
+- Señala comportamiento pasado de la entidad con intención dolosa o corrupta
+- Amenaza de denuncia + acusación directa de dolo (combinación de ambas)
+
+════════════════════════════════════════
+DISTINCIONES FINAS:
+════════════════════════════════════════
+- "este plazo podría solo cumplirse por el proveedor anterior, LIMITANDO a nuevos participantes" → describe EFECTO con condicional → NO_ACUSATORIA
+- "pusieron este plazo PARA QUE solo gane el proveedor anterior" → atribuye INTENCIÓN → ACUSATORIA
+- "la marca es ilegal solicitar" → describe norma prohibitiva → NO_ACUSATORIA
+- "ESO ES ILEGAL, RECTIFIQUE" (llamando ilegal una decisión específica de la entidad en tono de reproche) → ACUSATORIA
+- "está terminantemente prohibido X por el SERCOP y ustedes solicitan X" → entidad viola norma conocida a sabiendas → ACUSATORIA
+- "cuestionar si un tercero (no la entidad) tiene autorización para emitir un certificado" → NO_ACUSATORIA
+- "la entidad exige certificados de organismos sin autorización, creando una barrera" → ACUSATORIA
+
+EJEMPLOS:
+
+[ACUSATORIA]
+Pregunta: "{ejemplo_acusatoria_1}"
+
+[ACUSATORIA]
+Pregunta: "{ejemplo_acusatoria_2}"
+
+[ACUSATORIA]
+Pregunta: "{ejemplo_acusatoria_3}"
+
+[ACUSATORIA]
+Pregunta: "{ejemplo_acusatoria_4}"
+
+[NO ACUSATORIA]
+Pregunta: "{ejemplo_no_acusatoria_1}"
+
+[NO ACUSATORIA]
+Pregunta: "{ejemplo_no_acusatoria_2}"
+
+[NO ACUSATORIA]
+Pregunta: "{ejemplo_no_acusatoria_3}"
+
+[NO ACUSATORIA]
+Pregunta: "{ejemplo_no_acusatoria_4}"
+
+Responde ÚNICAMENTE con: "ACUSATORIA" o "NO_ACUSATORIA"
+
+PREGUNTA: "{pregunta}"
+
+CLASIFICACIÓN:
+---
+---
