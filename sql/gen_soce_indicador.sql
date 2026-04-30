@@ -822,3 +822,137 @@ WHERE
     AND z.valor_preguntas::text <> '"ACLARACION"'
 ORDER BY z.fecha_publicacion, z.contract_id;
 
+
+---- procesos
+
+SELECT 
+    COUNT(DISTINCT z.contract_id) AS total_procesos_unicos
+FROM (
+    SELECT 
+        x.contract_id,
+        x.codigo,
+        x.fecha_publicacion,
+        (SELECT jsonb_each.value -> 'pregunta_aclaracion'::text
+           FROM jsonb_each(x.preguntas) jsonb_each(key, value)) AS valor_preguntas
+    FROM (
+        SELECT DISTINCT 
+            b.contract_id,
+            b.codigo,
+            sf.fecha_value::date AS fecha_publicacion,
+            CASE substring(b.estado_del_proceso::text, 1, 1)
+                WHEN '{'::text THEN b.estado_del_proceso::text
+                ELSE ('{"estado_del_proceso":"'::text || b.estado_del_proceso::text) || '"}'::text
+            END::jsonb ->> 'estado_del_proceso'::text AS estado_del_proceso,
+            jsonb_array_elements(a.preguntas_y_aclaraciones) AS preguntas,
+            is_valid_json(jsonb_array_elements_text(a.preguntas_y_aclaraciones)) AS condicion
+        FROM soce_descripcion b
+            JOIN soce_fechas sf ON b.contract_id::text = sf.contract_id::text
+            JOIN preguntas_y_aclaraciones a ON b.contract_id::integer = a.contract_id
+        WHERE jsonb_typeof(a.preguntas_y_aclaraciones) = 'array'::text 
+            AND sf.fecha_name::text = 'fecha_de_publicacion'::text 
+            AND b.tipo_de_contratacion::text = 'Publicación Especial'::text 
+            AND valida_codigo_gen_pe(b.codigo)
+        UNION
+        SELECT DISTINCT 
+            b.contract_id,
+            b.codigo,
+            sf.fecha_value::date AS fecha_publicacion,
+            CASE "substring"(b.estado_del_proceso::text, 1, 1)
+                WHEN '{'::text THEN b.estado_del_proceso::text
+                ELSE ('{"estado_del_proceso":"'::text || b.estado_del_proceso::text) || '"}'::text
+            END::jsonb ->> 'estado_del_proceso'::text AS estado_del_proceso,
+            jsonb_array_elements(a.preguntas_y_aclaraciones) AS preguntas,
+            is_valid_json(jsonb_array_elements_text(a.preguntas_y_aclaraciones)) AS condicion
+        FROM soce_descripcion b
+            JOIN soce_fechas sf ON b.contract_id::text = sf.contract_id::text
+            JOIN preguntas_y_aclaraciones a ON b.contract_id::integer = a.contract_id
+        WHERE jsonb_typeof(a.preguntas_y_aclaraciones) = 'array'::text 
+            AND sf.fecha_name::text = 'fecha_de_publicacion'::text 
+            AND b.tipo_de_contratacion::text = 'Empresas Públicas, Mercantiles o Subsidiarias'::text
+    ) x
+    WHERE x.condicion IS TRUE 
+        AND (x.estado_del_proceso = ANY (ARRAY[
+            'Adjudicada'::text, 'Cancelado'::text, 'Desierta'::text, 
+            'Finalizada'::text, 'Por Adjudicar'::text, 
+            'Preguntas, Respuestas y Aclaraciones'::text, 
+            'Audiencia de Preguntas y Aclaraciones'::text, 
+            'Terminado Unilateralmente'::text, 'En Curso'::text, 'Suspendido'::text
+        ]))
+) z
+WHERE EXTRACT(YEAR FROM z.fecha_publicacion) >= 2008
+    AND z.valor_preguntas::text <> '"ACLARACION"';
+
+
+
+-------------preguntas GEN por proceso filtrado por año---------
+
+SELECT 
+    z.contract_id,
+    z.codigo,
+    z.fecha_publicacion,
+    z.estado_del_proceso,
+    z.valor_preguntas,
+    z.flag AS es_acusatoria,
+    CASE 
+        WHEN z.flag THEN 'Acusatoria'
+        ELSE 'No Acusatoria'
+    END AS clasificacion
+FROM (
+    SELECT 
+        x.contract_id,
+        x.codigo,
+        x.estado_del_proceso,
+        x.fecha_publicacion,
+        (SELECT jsonb_each.value -> 'pregunta_aclaracion'::text
+           FROM jsonb_each(x.preguntas) jsonb_each(key, value)) AS valor_preguntas,
+        to_tsvector('spanish'::regconfig, ((SELECT jsonb_each.value -> 'pregunta_aclaracion'::text
+           FROM jsonb_each(x.preguntas) jsonb_each(key, value)))::text) 
+            @@ to_tsquery('spanish'::regconfig, 'corrupción|direccionado|limitante|vulneración|ocultamiento|violación|incompleto|trato<->justo'::text) AS flag
+    FROM (
+        SELECT DISTINCT 
+            b.contract_id,
+            b.codigo,
+            sf.fecha_value::date AS fecha_publicacion,
+            CASE substring(b.estado_del_proceso::text, 1, 1)
+                WHEN '{'::text THEN b.estado_del_proceso::text
+                ELSE ('{"estado_del_proceso":"'::text || b.estado_del_proceso::text) || '"}'::text
+            END::jsonb ->> 'estado_del_proceso'::text AS estado_del_proceso,
+            jsonb_array_elements(a.preguntas_y_aclaraciones) AS preguntas,
+            is_valid_json(jsonb_array_elements_text(a.preguntas_y_aclaraciones)) AS condicion
+        FROM soce_descripcion b
+            JOIN soce_fechas sf ON b.contract_id::text = sf.contract_id::text
+            JOIN preguntas_y_aclaraciones a ON b.contract_id::integer = a.contract_id
+        WHERE jsonb_typeof(a.preguntas_y_aclaraciones) = 'array'::text 
+            AND sf.fecha_name::text = 'fecha_de_publicacion'::text 
+            AND b.tipo_de_contratacion::text = 'Publicación Especial'::text 
+            AND valida_codigo_gen_pe(b.codigo)
+        UNION
+        SELECT DISTINCT 
+            b.contract_id,
+            b.codigo,
+            sf.fecha_value::date AS fecha_publicacion,
+            CASE "substring"(b.estado_del_proceso::text, 1, 1)
+                WHEN '{'::text THEN b.estado_del_proceso::text
+                ELSE ('{"estado_del_proceso":"'::text || b.estado_del_proceso::text) || '"}'::text
+            END::jsonb ->> 'estado_del_proceso'::text AS estado_del_proceso,
+            jsonb_array_elements(a.preguntas_y_aclaraciones) AS preguntas,
+            is_valid_json(jsonb_array_elements_text(a.preguntas_y_aclaraciones)) AS condicion
+        FROM soce_descripcion b
+            JOIN soce_fechas sf ON b.contract_id::text = sf.contract_id::text
+            JOIN preguntas_y_aclaraciones a ON b.contract_id::integer = a.contract_id
+        WHERE jsonb_typeof(a.preguntas_y_aclaraciones) = 'array'::text 
+            AND sf.fecha_name::text = 'fecha_de_publicacion'::text 
+            AND b.tipo_de_contratacion::text = 'Empresas Públicas, Mercantiles o Subsidiarias'::text
+    ) x
+    WHERE x.condicion IS TRUE 
+        AND (x.estado_del_proceso = ANY (ARRAY[
+            'Adjudicada'::text, 'Cancelado'::text, 'Desierta'::text, 
+            'Finalizada'::text, 'Por Adjudicar'::text, 
+            'Preguntas, Respuestas y Aclaraciones'::text, 
+            'Audiencia de Preguntas y Aclaraciones'::text, 
+            'Terminado Unilateralmente'::text, 'En Curso'::text, 'Suspendido'::text
+        ]))
+) z
+WHERE EXTRACT(YEAR FROM z.fecha_publicacion) >= 2008
+    AND z.valor_preguntas::text <> '"ACLARACION"'
+ORDER BY z.fecha_publicacion, z.contract_id;
