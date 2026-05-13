@@ -10,7 +10,7 @@ Lenguaje Natural
 **Tutor:** Daniel Riofrío, Ph.D.
 **Quito, mayo de 2026**
 
-**Nota: Las bases de datos utilizadas para el entrenamiento de los modelos y la documentación previa no se libera en este entregable**
+**Nota: Las bases de datos utilizadas para el entrenamiento de los modelos y la documentación previa no se liberan en este entregable**
 
 ---
 
