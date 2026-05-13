@@ -38,7 +38,7 @@ proyecto_integrador/
 ├── pipelines/                                     # Notebooks y artefactos
 │   ├── kapak_replica_modelos.ipynb                # Entrenamiento M1/M2/M3
 │   ├── indice_IFS/
-│   │   └── kapak_indicador4_indice.ipynb          # IFS (primera etapa, futuro indice operativo)
+│   │   └── kapak_indicador4_indice.ipynb          # IFS (primera etapa, propuesta de futuro indice)
 │   ├── procesos_SIE/
 │   │   ├── kapak_indicador4_pipeline.ipynb        # Pipeline SIE 2024
 │   │   ├── kapak_llm_judge.ipynb                  # LLM Judge SIE
