@@ -13,6 +13,8 @@ venv/
 # IDE
 .vscode/
 .idea/
+.claude/
+.conda/
 *.swp
 *.swo
 *~
@@ -30,6 +32,10 @@ build/
 tmp/
 temp/
 *.tmp
+
+# Pipeline outputs
+pipelines/output_replica/
+pipelines/.ipynb_checkpoints/
 
 # Large Roh pipeline artifacts kept outside Git
 contexto/trabajo_Roh/pipeline/Files/a_cc.es.300.zip

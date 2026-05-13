@@ -3,17 +3,3 @@ datasets/ filter=lfs diff=lfs merge=lfs -text
 datasets/** filter=lfs diff=lfs merge=lfs -text
 # Artefactos de entrenamiento/generación en pipelines
 pipelines/** filter=lfs diff=lfs merge=lfs -text
-# Históricos del trabajo Roh
-contexto/trabajo_Roh/embeddings/** filter=lfs diff=lfs merge=lfs -text
-contexto/trabajo_Roh/datasets/** filter=lfs diff=lfs merge=lfs -text
-contexto/trabajo_Roh/Models_Results.xlsx filter=lfs diff=lfs merge=lfs -text
-contexto/trabajo_Roh/tesis[[:space:]]francisco[[:space:]]rho.pdf filter=lfs diff=lfs merge=lfs -text
-# Entregables en PDF
-contexto/documento_final/*.pdf filter=lfs diff=lfs merge=lfs -text
-contexto/indicador_GEN/*.pdf filter=lfs diff=lfs merge=lfs -text
-
-# LLM judge artifacts
-llm_judge_project/data/raw/** filter=lfs diff=lfs merge=lfs -text
-llm_judge_project/data/results/** filter=lfs diff=lfs merge=lfs -text
-
-# postgres
