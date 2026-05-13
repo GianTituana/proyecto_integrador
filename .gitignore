@@ -45,6 +45,6 @@ contexto/trabajo_Roh/pipeline/Files/dataset.xlsx
 
 #Datasets
 datasets/
-prompt_alignment/data/
+pipelines/prompt_alignment/data/
 
 postgres/
