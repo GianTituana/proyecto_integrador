@@ -43,4 +43,7 @@ contexto/trabajo_Roh/pipeline/Files/dataset.xlsx
 
 #postgres
 
+#Datasets
+datasets/
+
 postgres/
