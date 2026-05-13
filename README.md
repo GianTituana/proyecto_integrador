@@ -36,7 +36,7 @@ proyecto_integrador/
 ├── pipelines/                                     # Notebooks y artefactos
 │   ├── kapak_replica_modelos.ipynb                # Entrenamiento M1/M2/M3
 │   ├── indice_IFS/
-│   │   └── kapak_indicador4_indice.ipynb          # IRC4 (IFS)
+│   │   └── kapak_indicador4_indice.ipynb          # IFS (primera etapa, futuro indice operativo)
 │   ├── procesos_SIE/
 │   │   ├── kapak_indicador4_pipeline.ipynb        # Pipeline SIE 2024
 │   │   ├── kapak_llm_judge.ipynb                  # LLM Judge SIE
@@ -83,7 +83,14 @@ El indicador se construye sobre tres modelos con perfiles complementarios, entre
 | M2 | Naive Bayes | Sensible (Recall=1.0) | 0.227 | 1.000 | 0.128 |
 | M3 | Random Forest | Conservador | 0.640 | 0.552 | 0.762 |
 
-**Sistema de votación:** 3/3 votos → alerta ROJA · 2/3 → AMARILLA · 1/3 → VERDE
+---
+
+## Resultados resumidos (Informe Final)
+
+- **Replicación de modelos (test):** M1 F1=0.677 (R=0.759, P=0.611), M2 R=1.000 pero F1=0.227 (P=0.128), M3 F1=0.640 (P=0.762).
+- **Alineamiento del prompt (o4-mini, medium):** clase acusatoria P=0.70, R=0.72, F1=0.71; MCC=0.7032.
+- **SIE 2024 (dataset completo):** 123,669 preguntas, 15,087 procesos, prevalencia acusatoria 4.78%; 78.8% de procesos sin preguntas acusatorias.
+- **Muestreo estratificado:** 471 procesos; costo aproximado LLM Judge (o4-mini, low) $8.39.
 
 ---
 
@@ -167,8 +174,9 @@ El prompt final (`prompt_v17.txt`) es el que se usa en `pipelines/procesos_SIE/k
 6. **Comparación GT (BD vs LLM)**
     - Ejecuta `pipelines/procesos_SIE/kapak_comparacion_gt_bd_vs_llm.ipynb`.
     - Genera `pipelines/output_replica/evaluation/kapak_comparacion_gt/`.
-7. **IRC4 operativo**
+7. **IFS (primera etapa, no operativo)**
     - Ejecuta `pipelines/indice_IFS/kapak_indicador4_indice.ipynb`.
+    - Este notebook alimenta un futuro indice operativo.
 
 Para GEN 2008-2023:
 
@@ -215,7 +223,7 @@ Replica el pipeline de embeddings e inferencia sobre el dataset histórico `GEN2
 ### Índice de riesgo (IRC)
 
 #### `kapak_indicador4_indice.ipynb`
-Implementación operativa del IRC4: transforma las probabilidades a nivel de pregunta en un índice continuo por proceso (escala 0–100) con componentes de intensidad, frecuencia y severidad.
+Primera etapa del IFS (no operativo): transforma las probabilidades a nivel de pregunta en un indice continuo por proceso (escala 0-100) con componentes de intensidad, frecuencia y severidad. Este resultado sera parte de un futuro indice operativo.
 
 #### `kapak_indicador4_irc_media.ipynb`
 Construye el IRC continuo usando exclusivamente la media de las probabilidades de cada modelo: $IRC_p^{(m)} = 100 \times \frac{1}{n_p}\sum P_m(c_i)$. Sin reglas de contexto ni taxonomía.
